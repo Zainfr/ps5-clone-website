@@ -1,3 +1,4 @@
+![](ps5-clone/public/assets/images/PS5.png)
 # PS5 Website Clone
 
 A static frontend clone of the PlayStation 5 website, built using React, Tailwind CSS, and Next.js. This project showcases modern web development techniques and responsive design principles.
@@ -21,3 +22,10 @@ A static frontend clone of the PlayStation 5 website, built using React, Tailwin
 - **Vercel** (or your chosen hosting provider): For deploying the static site.
 
 ## Screenshots
+
+![](ps5-clone/public/assets/images/Screenshot2.png)
+![](ps5-clone/public/assets/images/Screenshot3.png)
+![](ps5-clone/public/assets/images/Screenshot4.png)
+![](ps5-clone/public/assets/images/Screenshot5.png)
+![](ps5-clone/public/assets/images/Screenshot6.png)
+
